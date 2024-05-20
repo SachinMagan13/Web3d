@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D version="3.0" profile="Immersive" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.0.xsd">
+	<head>
+		<meta name="filename" content="testpepper.x3d" />
+		<meta name="generator" content="Blender 4.1.1" />
+	</head>
+	<Scene>
+		<NavigationInfo headlight="false"
+		                visibilityLimit="0.0"
+		                type='"EXAMINE", "ANY"'
+		                avatarSize="0.25, 1.75, 0.75"
+		                />
+		<Background DEF="WO_World"
+		            groundColor="0.051 0.051 0.051"
+		            skyColor="0.051 0.051 0.051"
+		            />
+		<Transform DEF="CINEMA_4D_Editor_TRANSFORM"
+		           translation="24.942682 8.277074 -5.896923"
+		           scale="0.010000 0.010000 0.010000"
+		           rotation="-0.092651 0.988719 0.117692 1.818786"
+		           >
+			<Viewpoint DEF="CA_CINEMA_4D_Editor"
+			           centerOfRotation="0 0 0"
+			           position="0.00 0.00 0.00"
+			           orientation="0.66 -0.01 0.75 0.00"
+			           fieldOfView="0.950"
+			           />
+		</Transform>
+		<Transform DEF="Background_TRANSFORM"
+		           translation="0.000000 0.000000 0.000000"
+		           scale="0.010000 0.010000 0.010000"
+		           rotation="0.000000 1.000000 0.000000 3.141593"
+		           >
+		</Transform>
+		<Transform DEF="Light_3_TRANSFORM"
+		           translation="-1.531153 22.945322 -0.812152"
+		           scale="0.010000 0.010000 0.010000"
+		           rotation="-0.584046 -0.593908 -0.553321 1.980962"
+		           >

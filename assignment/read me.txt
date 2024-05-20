@@ -1,0 +1,21 @@
+Regarding Assets and 3D Models
+
+
+I created 3 models for my website all on cinema 4d. I exported via FBX and imported into blender. After that I had to adjust the image textures in blender and export as x3d. 
+
+Once exported into x3d i had to go into the x3d code and adjust the material tags within there to match the textures. I simply could not understand how to adjust that code to achieve the animations or roation correctly. 
+
+I believe I have applied the exact same process on all 3 of my models, but only one has worked. Clearly I have not done something correct with the other 2 but I have looked at it for hours and cannot figure out how to make it work
+
+I sent an email to Imran Khan and Martin White on the 16th of May and did not receive a reply. I am not really sure what to do regarding my models and due to this the overall coursework has had a massive impact on my mental 
+wellbeing. I have had to submit the coursework today after several conversations with my family, simply i just cannot take it anymore its been so mentally draining. 
+
+
+I am not writing this message wanting and mark compensation or any check up but just to let you know that this is the situation that a lot of students doing this module have faced. I have spoken to multiple people on the module
+regarding this and each one has had a response similar to mine in terms of how they felt doing the courswork. 
+
+I do not mean and disrespect or impoliteness with this message and I am sorry if I have been rude or disrespectful it was never my aim
+
+Thank you for reading this, 
+
+Sachin
